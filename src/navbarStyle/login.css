@@ -1,0 +1,40 @@
+
+
+.login-container {
+    max-width: 420px;
+}
+
+
+.forgot-password {
+    text-align: right;
+
+    margin-top: -8px;
+
+    font-size: 13px;
+}
+
+.forgot-password span {
+    color: #667eea;
+
+    cursor: pointer;
+
+    font-weight: 500;
+}
+
+.forgot-password span:hover {
+    text-decoration: underline;
+}
+
+.login-text a {
+    color: #667eea;
+
+    font-weight: 600;
+
+    text-decoration: none;
+
+    margin-left: 5px;
+}
+
+.login-text a:hover {
+    text-decoration: underline;
+}

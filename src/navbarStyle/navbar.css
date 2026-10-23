@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    /* align-items: flex-end; */
+    justify-content: flex-end;
+    background-color: rgb(247, 245, 243);
+    height: 40px;
+    align-items: center;
+
+}
+
+.navbar li{
+    margin-right: 5px;
+    padding-right: 10px;
+
+}
+
+.navbar li a{
+    text-decoration: none;
+    margin-right: 5px;
+    padding-right: 10px;
+    color: rgb(3, 3, 32);
+}
